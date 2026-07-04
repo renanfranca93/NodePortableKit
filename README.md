@@ -13,39 +13,12 @@ baixar](./NodePortableKit.zip)**).
 Após o download, descompacte o arquivo em qualquer pasta do seu
 computador.
 
-## 3. Inicie o ambiente
+## 3. Instroções
 
-Abra a pasta **NodePortableKit** e execute o arquivo:
+Dentro da pasta descompactada haverá instruções de uso do kit
 
-``` text
-start_terminal.bat
-```
 
-Uma janela do terminal será aberta já configurada para utilizar o
-**Node.js**, o **npm** e o **SQLite**.
-
-## 4. Crie seus projetos
-
-Todos os projetos da disciplina devem ser criados **dentro da pasta**:
-
-``` text
-projects
-```
-
-Exemplo:
-
-``` text
-NodePortableKit/
-├── node/
-├── tools/
-├── projects/
-│   ├── projeto-aula01/
-│   ├── projeto-api/
-│   └── meu-projeto/
-└── start_terminal.bat
-```
-
-## 5. Publicando no GitHub
+## !! IMPORTANTE !!
 
 A pasta **NodePortableKit** serve apenas como ambiente de
 desenvolvimento e **não deve ser enviada para o GitHub**.
